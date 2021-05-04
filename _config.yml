@@ -1,4 +1,20 @@
-title: "Parquet"
+# Site
+title: Parquet
+description: A system for queer 2D building, crafting, and narrative sandbox games.
+url: "http://parquet.gay"
+
+# Just the Docs Theme
 remote_theme: pmarsceill/just-the-docs
 color_scheme: parquet
+
+# Upper Right Navigation
+aux_links:
+  "Parquet on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+  "Parquet on Itch":
+    - "//https://mxashlynn.itch.io/parquet"
+
+# Search
+heading_anchors: true
+nav_sort: case_insensitive 
 search_enabled: true
