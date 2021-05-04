@@ -5,9 +5,8 @@ author: Paige Ashlynn
 url: "http://parquet.gay"
 
 # Just the Docs Theme
-theme: jekyll-theme-cayman
-#remote_theme: pmarsceill/just-the-docs
-#color_scheme: parquet
+remote_theme: pmarsceill/just-the-docs
+color_scheme: parquet
 
 # Upper Right Navigation
 aux_links:
