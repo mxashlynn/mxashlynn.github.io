@@ -8,21 +8,6 @@ url: "http://parquet.gay"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: parquet
 
-# Collections
-collections:
-  blog:
-    permalink: "/:collection/:path/"
-    sort_by: date
-    output: true
-
-# Collection Integrations
-just_the_docs:
-  collections:
-    blog:
-      name: Dev Blog
-      nav_exclude: false
-      search_exclude: false
-
 # Upper Right Navigation
 aux_links:
   "Parquet on GitHub":
