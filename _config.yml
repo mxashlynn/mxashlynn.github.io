@@ -4,9 +4,15 @@ description: A system for queer 2D building, crafting, and narrative sandbox gam
 author: Paige Ashlynn
 url: "http://parquet.gay"
 
-# Just the Docs Theme
+# Theme
 remote_theme: pmarsceill/just-the-docs
 color_scheme: parquet
+
+# Collections
+collections:
+  blog:
+    permalink: "/:collection/:path/"
+    output: true
 
 # Upper Right Navigation
 aux_links:
