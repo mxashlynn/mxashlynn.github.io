@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parquet Dev Blog 2018
+title: Posts 2018
 nav_order: 99
 has_children: true
 parent: Parquet Dev Blog
