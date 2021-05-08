@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Parquet Manual
+title: Manual
 nav_order: 1
 has_children: true
 ---
-# Parquet Manual
+# Manual
 
 How to use Parquet.

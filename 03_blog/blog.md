@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Parquet Dev Blog
+title: Development Blog
 nav_order: 3
 has_children: true
 ---
-# Dev Bog
+# Development Blog
 
 A record of Parquet's development.
