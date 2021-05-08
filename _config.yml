@@ -1,11 +1,16 @@
-# Site
+# Site Details
 title: Parquet
 description: A system for queer 2D building, crafting, and narrative sandbox games.
 author: Paige Ashlynn
+email: ""
+baseurl: ""
 url: "http://parquet.gay"
+github_username: mxashlynn
+
+# Build settings
+remote_theme: pmarsceill/just-the-docs
 
 # Theme
-remote_theme: pmarsceill/just-the-docs
 color_scheme: parquet
 
 # Upper Right Navigation

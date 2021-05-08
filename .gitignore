@@ -1,7 +1,5 @@
+# General Items
 [Tt]emp/
-_site/
-.jekyll-cache/
-.sass-cache/
 *.nuget.props
 *.nuget.targets
 *.nupkg
@@ -19,5 +17,9 @@ Icon?
 Icons?
 Thumbs.db
 
-# Specific Files
-post-2000-00-00 Template.md
+# Jekyll Items
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
