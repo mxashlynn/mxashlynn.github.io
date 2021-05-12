@@ -7,7 +7,6 @@
 *~
 .DS_Store
 .DS_Store?
-.jekyll-metadata
 .Spotlight-V100
 .Trashes
 ._*
@@ -18,8 +17,8 @@ Icons?
 Thumbs.db
 
 # Jekyll Items
+[Vv]endor
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
