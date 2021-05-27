@@ -6,6 +6,9 @@ nav_order: 0
 # Parquet
 ## A system for creating queer 2D building, crafting, and narrative sandbox games.
 
+I create narrative adventures that afford queer femme self-expression through block-building.
+
+To support this I have created the Parquet game system.
 
 Parquet provides mechanics, models, and an editor for quest-driven builder games.
 It particularly aims to support the development of queer games by solo developers.
