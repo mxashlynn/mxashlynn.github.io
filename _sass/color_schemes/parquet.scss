@@ -1,4 +1,7 @@
 * {
+    //
+    // Parquet Palette
+    //
     $numbing-pastel: #A9ECFC;
     $fresh-pastel: #B8FDEC;
     $astringent-pastel: #E0FCCD;
@@ -39,43 +42,46 @@
     $smokey: #747474;
     $burnt: #0C0C0C;
 
-    $white: #FCFCFC;
+    //
+    // Just the Docs Colors
+    //
+    $white: $chalky !important;
 
-    $grey-dk-000: #BCBCBC;
-    $grey-dk-100: #747474;
-    $grey-dk-200: #747474;
-    $grey-dk-250: #747474;
-    $grey-dk-300: #747474;
+    $grey-dk-000: $smokey;
+    $grey-dk-100: $smokey;
+    $grey-dk-200: $smokey;
+    $grey-dk-250: $smokey;
+    $grey-dk-300: $burnt;
 
-    $grey-lt-000: #E8E8E8;
-    $grey-lt-100: #E8E8E8;
-    $grey-lt-200: #E8E8E8;
-    $grey-lt-300: #BCBCBC;
+    $grey-lt-000: $salty-pastel;
+    $grey-lt-100: $salty;
+    $grey-lt-200: $salty;
+    $grey-lt-300: $salty;
 
-    $purple-000: #E1CBF8;
-    $purple-100: #C48AFF;
-    $purple-200: #C48AFF;
-    $purple-300: #6637A4;
+    $purple-000: $chemical-pastel;
+    $purple-100: $chemical;
+    $purple-200: $floral;
+    $purple-300: $myrcene;
 
-    $blue-000: #A9ECFC;
-    $blue-100: #01CDFC;
-    $blue-200: #01CDFC;
-    $blue-300: #1256A9;
+    $blue-000: $numbing-pastel;
+    $blue-100: $fizzy;
+    $blue-200: $numbing;
+    $blue-300: $moist;
 
-    $green-000: #B8FDEC;
-    $green-100: #00EDB3;
-    $green-200: #00EDB3;
-    $green-300: #00809B;
+    $green-000: $astringent-pastel;
+    $green-100: $fresh-pastel;
+    $green-200: $astringent;
+    $green-300: $musty;
 
-    $yellow-000: #FCFAD1;
-    $yellow-100: #FFFB96;
-    $yellow-200: #FFFB96;
-    $yellow-300: #EED44B;
+    $yellow-000: $sour-pastel;
+    $yellow-100: $sour;
+    $yellow-200: $sour;
+    $yellow-300: $sharp;
 
-    $red-000: #FDD8E2;
-    $red-100: #FCA6BE;
-    $red-200: #FCA6BE;
-    $red-300: #E13B3B;
+    $red-000: $sweet-pastel;
+    $red-100: $pungent-pastel;
+    $red-200: $sweet;
+    $red-300: $cloying;
 
     $body-background-color: $chalky !important;
     $sidebar-color: $salty-pastel !important;
@@ -92,4 +98,6 @@
     $link-color: $floral !important;
     $btn-primary-color: $floral !important;
     $base-button-color: #chalky !important;
+
+    //$feedback-color: darken($sidebar-color, 3%) !default;
 }
