@@ -4,17 +4,19 @@ title: About Parquet
 nav_order: 0
 ---
 # Parquet
-## A system for creating queer 2D building, crafting, and narrative sandbox games.
 
-I create narrative adventures that afford queer femme self-expression through block-building.
+## Game Development Framework and Toolset
 
-To support this I have created the Parquet game system.
+Parquet provides *mechanics, models, and an editor* for *2D quest-driven building and crafting*.
 
-Parquet provides mechanics, models, and an editor for quest-driven builder games.
-It particularly aims to support the development of queer games by solo developers.
+Parquet games afford [*queer/femme self-expression through block building*](01_motivation/motivation.html).
 
-Parquet is currently in pre-alpha and not yet usable.
-You can find more information at the [Parquet repository](https://github.com/mxashlynn/Parquet).
+Parquet focuses on *narrative adventure and exploration* without combat or resource depletion.
 
-This site is incomplete and under rapid development.
-Expect frequent breaking changes.
+Parquet is scoped to support *solo game devs*.
+
+This site explains how to develop games with Parquet.
+Currently, both the site and the system are incomplete and under rapid development.
+You should expect frequent breaking changes.
+
+For the moment, you can find more information at the [Parquet repository](https://github.com/mxashlynn/Parquet).
