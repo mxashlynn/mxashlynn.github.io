@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Motivation
+parent: Manual
 nav_order: 1
 ---
 # Motivation
