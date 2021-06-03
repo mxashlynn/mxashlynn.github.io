@@ -20,6 +20,15 @@ This library was created to support games that exhibit these features~~
     - provide **<span style="color:#E13B3B">Happy Endings</span>**
     - provide **<span style="color:#DF7126">Expressive, Creative Mechanics</span>**
 
+## Why Make Parquet?
+
+Parquet was designed and is primarily developed by me, [Paige Ashlynn](http://mxashlynn.itch.io),
+a [fulltime freelance](https://www.linkedin.com/in/paigeashlynn) independent game [coder](https://github.com/mxashlynn), producer, etc.
+
+I began Parquet as a learning project to expand my skillset, but I believe it fills an underserved niche.
+
+Others have [contributed ideas and content](contributors.html) as well!
+
 ## Why Make a Parquet Game?
 
 Terraria, Dragon Quest Builders 1 & 2, and other very popular games all provide a *narrative adventure* and *feminine self-expression*
@@ -41,14 +50,9 @@ a wealth of mixable/matchable materials and furnishings in a plethora of styles.
 
 This mix of functionally interchangeable yet stylistically distinct articles affords players a great degree of self expression.
 
-## Who Makes Parquet?
-
-Parquet was designed and is primarily developed by me, [Paige Ashlynn](http://mxashlynn.itch.io),
-a [fulltime freelance](https://www.linkedin.com/in/paigeashlynn) independent game [coder](https://github.com/mxashlynn), producer, etc.
-
-Parquet was begun as a learning project to expand my skillset.
-
-Others have [contributed ideas and content](contributors.html)!
+However, it is more than a question of content.  Mechanically, all existing block-based builder games that I am aware of forefront survival and combat mechanics.
+There's nothing wrong with this, but I think there is room for other types of builder games.
+Parquet exists in part to ease the creation of builder games which forefront narrative, exploration, and self-expression instead.
 
 ## What Parquet Game Have Been Released?
 
