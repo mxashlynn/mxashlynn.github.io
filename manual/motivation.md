@@ -20,20 +20,11 @@ This library was created to support games that exhibit these features~~
     - provide **<span style="color:#E13B3B">Happy Endings</span>**
     - provide **<span style="color:#DF7126">Expressive, Creative Mechanics</span>**
 
-## Who Makes Parquet?
-
-Parquet was designed and is primarily developed by me, [Paige Ashlynn](http://mxashlynn.itch.io),
-a [fulltime freelance](https://www.linkedin.com/in/paigeashlynn) independent game [coder](https://github.com/mxashlynn) and producer.
-
-Parquet was begun as a learning project to expand my skillset.
-
-Others have contributed ideas and content.
-
 ## Why Make a Parquet Game?
 
 Terraria, Dragon Quest Builders 1 & 2, and other very popular games all provide a *narrative adventure* and *feminine self-expression*
 through *building* and *quest fulfilment*.
-However, so far all such games do this as an afterthought or accidentally -- especially the feminine part.
+However, so far most games do this as an afterthought or accidentally -- especially the feminine part.
 
 I believe that I am not the only person who is interested in this kind of play.
 For myself and those other players, I want to create games that deliberately center these experiences.
@@ -49,6 +40,15 @@ This final point underlines what many more mainstream building games, notably Mi
 a wealth of mixable/matchable materials and furnishings in a plethora of styles.
 
 This mix of functionally interchangeable yet stylistically distinct articles affords players a great degree of self expression.
+
+## Who Makes Parquet?
+
+Parquet was designed and is primarily developed by me, [Paige Ashlynn](http://mxashlynn.itch.io),
+a [fulltime freelance](https://www.linkedin.com/in/paigeashlynn) independent game [coder](https://github.com/mxashlynn), producer, etc.
+
+Parquet was begun as a learning project to expand my skillset.
+
+Others have [contributed ideas and content](contributors.html)!
 
 ## What Parquet Game Have Been Released?
 
